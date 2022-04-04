@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(97, 91, 91);
+}
+
+main {
+    background-color: rgb(65, 65, 65);
+    text-align: center;
+    color: rgb(255, 230, 0);
+    border-radius: 3px;
+    border-color: rgb(255, 230, 0);
+    height: 300px;
+    width: 400px;
+    
+}
